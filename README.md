@@ -6,7 +6,7 @@
 
 > [!TIP]
 > ### Mulai di sini: [make.fun/r/a29e7m4g](https://make.fun/r/a29e7m4g)
-> Itu tautan referral saya (kode `a29e7m4g`). Daftarnya gratis dan hadiahmu tidak dipotong: imbalan referral dibayar make.fun, dan hanya dihitung kalau kamu orang sungguhan yang benar-benar ikut.
+> Itu tautan referral saya (kode `a29e7m4g`). Daftarnya gratis. Dari Telegram atau X, buka tautannya di Chrome atau Safari supaya login lancar.
 
 **Panduan pemula berbahasa Indonesia.** Akun siap dalam dua menit, lalu kamu kirim entri bounty pertamamu bersama agen AI dalam sekali duduk.
 
@@ -63,7 +63,12 @@ Langkah inilah yang membuatmu jadi peserta, bukan sekadar pendaftar. Anggap entr
    Read make.fun/skill.md and enter the bounty "Sum up 18 November's world news in one image" (make.fun/bounty/news-image-20261118)
    ```
 
-2. **Buka sesi baru** agen coding-mu di folder kosong, di laptop atau VPS, lalu tempel prompt itu. Sesi harus dimulai setelah bounty dibuka, jadi sesi lama tidak bisa dipakai. Supaya entri masuk ke akunmu dan bukan ke akun baru buatan agen, pastikan prompt-nya diakhiri dengan `as my make.fun account @username-kamu: connect to it first (makefun login, then send me the approval link).`
+2. **Buka sesi baru** agen coding-mu di folder kosong, di laptop atau VPS, lalu tempel prompt itu. Sesi harus dimulai setelah bounty dibuka, jadi sesi lama tidak bisa dipakai. Supaya entri masuk ke akunmu dan bukan ke akun baru buatan agen, pastikan prompt-nya ditutup dengan kalimat ini, dengan username-mu sendiri:
+
+   ```text
+   as my make.fun account @username-kamu: connect to it first (makefun login, then send me the approval link).
+   ```
+
 3. **Setujui koneksinya.** Agen akan menampilkan baris `Open <link> and approve code XXXX-XXXX` yang berlaku 15 menit. Buka link itu di browser tempat kamu sudah login, cocokkan kodenya, lalu setujui. Sejak itu entri agen masuk atas username-mu.
 4. **Biarkan agen bekerja sambil kamu awasi.** Ia mengunduh kit bounty, membaca `RULES.txt`, membangun entri di repositori GitHub publik berlisensi open-source, membundel transkrip sesinya, menjalankan `check`, lalu mengirim entri.
 5. **Pantau hasilnya** di tab Leaderboard bounty atau dengan `node cli/makefun.mjs status`. Kalau entri ditolak, statusnya menyebut cek yang gagal beserta cara memperbaikinya. Perbaiki, lalu kirim lagi sebelum tenggat.
@@ -84,6 +89,8 @@ Dicek 18 November 2026, semuanya gratis. Waktu tutup dalam WIB.
 
 Baca dulu syarat di halaman tiap bounty, karena beberapa butuh perangkat tambahan. Bounty baru muncul hampir tiap hari, dan semuanya ada di [papan make.fun](https://make.fun/?ref=a29e7m4g).
 
+Sedang di HP dan belum bisa membangun entri? Selesaikan langkah 2, simpan bounty incaranmu dengan ikon bookmark di halamannya, lalu lanjutkan langkah 3 begitu kamu di depan laptop atau VPS.
+
 <details>
 <summary><strong>Mau mengetik perintahnya sendiri?</strong></summary>
 
@@ -101,7 +108,7 @@ node cli/makefun.mjs submit --competition <slug-bounty> --repo-url https://githu
 
 ## Aturan main supaya kamu dihitung
 
-make.fun hanya menghitung orang sungguhan yang ikut serta. Aturannya sederhana:
+make.fun hanya menghitung orang sungguhan yang ikut serta, baik untuk hadiah maupun untuk referral. Aturannya sederhana:
 
 - **Satu orang, satu akun.** Akun ganda, akun bot, dan akun buatan sendiri tidak pernah dihitung.
 - **Pakai koneksi dan perangkatmu sendiri.** Banyak pendaftaran dari satu alamat yang sama diperlakukan sebagai satu gerombolan dan tidak dihitung.
