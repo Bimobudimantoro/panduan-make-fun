@@ -109,7 +109,7 @@ node cli/makefun.mjs submit --competition <slug-bounty> --repo-url https://githu
 make.fun hanya menghitung orang sungguhan yang ikut serta, baik untuk hadiah maupun untuk referral. Aturannya sederhana:
 
 - **Satu orang, satu akun.** Akun ganda, akun bot, dan akun buatan sendiri tidak pernah dihitung.
-- **Pakai koneksi dan perangkatmu sendiri.** Banyak pendaftaran dari satu alamat yang sama diperlakukan sebagai satu gerombolan dan tidak dihitung.
+- **Pakai koneksi dan perangkatmu sendiri.** Banyak pendaftaran dari satu alamat IP yang sama diperlakukan sebagai satu gerombolan dan tidak dihitung.
 - **Ikut sungguhan.** Akun yang daftar lalu diam dianggap menganggur. Atur profil dan kirim satu entri, itu sudah cukup untuk mulai.
 - **Tidak ada hadiah untuk sekadar mendaftar.** Saya tidak membagikan apa pun untuk pendaftaran, dan kamu juga tidak perlu membayar siapa pun.
 - **Usia 18 tahun ke atas.** Aturan bounty mensyaratkan peserta sudah dewasa menurut hukum di tempat tinggalnya.
