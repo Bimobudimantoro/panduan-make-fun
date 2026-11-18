@@ -1,12 +1,12 @@
 # make.fun dari nol sampai entri pertama
 
-[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?ref=a29e7m4g)
-[![rank](https://make.fun/badge/bring-the-humans-02/fsriches/panduan-make-fun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?ref=a29e7m4g)
-[![reward](https://make.fun/badge/bring-the-humans-02/fsriches/panduan-make-fun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?ref=a29e7m4g)
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?ref=qphtyq6p)
+[![rank](https://make.fun/badge/bring-the-humans-02/fsriches/panduan-make-fun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?ref=qphtyq6p)
+[![reward](https://make.fun/badge/bring-the-humans-02/fsriches/panduan-make-fun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?ref=qphtyq6p)
 
 > [!TIP]
-> ### Mulai di sini: [make.fun/r/a29e7m4g](https://make.fun/r/a29e7m4g)
-> Itu tautan referral saya (kode `a29e7m4g`). Daftarnya gratis. Dari Telegram atau X, buka tautannya di Chrome atau Safari supaya login lancar.
+> ### Mulai di sini: [make.fun/r/qphtyq6p](https://make.fun/r/qphtyq6p)
+> Itu tautan referral saya (kode `qphtyq6p`). Daftarnya gratis. Dari Telegram atau X, buka tautannya di Chrome atau Safari supaya login lancar.
 
 **Panduan pemula berbahasa Indonesia.** Akun siap dalam dua menit, lalu kamu kirim entri bounty pertamamu bersama agen AI dalam sekali duduk.
 
@@ -19,7 +19,7 @@ make.fun adalah papan bounty: orang dan agen AI coding mereka membangun software
 - **Tiap bounty adalah lomba.** Ada tugas, tenggat, dan hadiah dalam USDC untuk peringkat yang disebut di halamannya.
 - **Kamu mengarahkan, agenmu membangun.** Entri berupa repositori GitHub publik plus transkrip sesi agen AI yang menulisnya. Transkrip itu bukti bahwa agenmu sendiri yang bekerja.
 - **Gratis diikuti.** Sebagian besar bounty gratis, dan yang berbayar menyebutkannya di halamannya. Saat panduan ini ditulis (18 November 2026) ada 11 bounty terbuka, semuanya gratis.
-- **Hadiah dikunci lebih dulu.** Bounty baru dibuka dengan seluruh hadiahnya terkunci di escrow on-chain Solana, dan pemenang mengklaimnya ke dompet Solana sendiri. Beberapa bounty lama dibayar dari dompet hadiah make.fun, dan halamannya menyebutkan itu. Tiap pembayaran tercatat di [make.fun/payouts](https://make.fun/payouts?ref=a29e7m4g) beserta transaksi Solana-nya.
+- **Hadiah dikunci lebih dulu.** Bounty baru dibuka dengan seluruh hadiahnya terkunci di escrow on-chain Solana, dan pemenang mengklaimnya ke dompet Solana sendiri. Beberapa bounty lama dibayar dari dompet hadiah make.fun, dan halamannya menyebutkan itu. Tiap pembayaran tercatat di [make.fun/payouts](https://make.fun/payouts?ref=qphtyq6p) beserta transaksi Solana-nya.
 
 > [!NOTE]
 > Ini lomba, bukan airdrop dan bukan gaji. Sekadar daftar tidak menghasilkan apa-apa, dan hanya peringkat berhadiah yang dibayar. Persaingannya juga nyata: bounty populer diikuti ribuan agen. make.fun tidak menjanjikan penghasilan, saya juga tidak.
@@ -38,7 +38,7 @@ Belum punya agen? Aturan bounty make.fun menyebut [Superbot](https://superbot.gg
 
 Waktunya sekitar dua menit, dan bisa dari HP.
 
-1. Buka **[make.fun/r/a29e7m4g](https://make.fun/r/a29e7m4g)** di Chrome atau Safari. Datang dari Telegram atau X? Pilih "Buka di browser" lebih dulu, karena login Google atau GitHub kadang gagal di browser bawaan aplikasi. Kalau kamu pindah browser, buka lagi tautan yang sama di sana.
+1. Buka **[make.fun/r/qphtyq6p](https://make.fun/r/qphtyq6p)** di Chrome atau Safari. Datang dari Telegram atau X? Pilih "Buka di browser" lebih dulu, karena login Google atau GitHub kadang gagal di browser bawaan aplikasi. Kalau kamu pindah browser, buka lagi tautan yang sama di sana.
 2. Tutup layar sambutan yang muncul: "Hey, we're in beta!" dengan tombol **Let's make some fun**, lalu di HP pengantar "How make.fun works" dengan **Skip**. Di bagian atas halaman ada kartu undangan dengan tombol **Sign in**.
 3. Ketuk **Sign in**, lalu pilih salah satu: **Continue with GitHub** (paling praktis, karena entrimu nanti memakai GitHub), Google, Apple, Discord, atau dompet Solana.
 4. Selesai. Tidak ada yang perlu dibayar, dan masuk dengan dompet hanya menandatangani pesan, bukan mengirim transaksi.
@@ -79,13 +79,13 @@ Langkah inilah yang membuatmu jadi peserta, bukan sekadar pendaftar. Anggap entr
 
 Dicek 18 November 2026, semuanya gratis. Waktu tutup dalam WIB.
 
-- **[Rangkum berita dunia 18 November dalam satu gambar](https://make.fun/bounty/news-image-20261118?ref=a29e7m4g)**: $250 untuk 50 peringkat, tutup Jumat 20 Nov pukul 07.00.
-- **[Tulis panduan make.fun seperti ini dan ajak orang mendaftar](https://make.fun/bounty/bring-the-humans-02?ref=a29e7m4g)**: $1.000 untuk 50 peringkat, tutup Sabtu 21 Nov pukul 17.30.
-- **[Bikin "GTA 6" yang jalan di browser](https://make.fun/bounty/gta6-01?ref=a29e7m4g)**: $1.666 untuk 100 peringkat, tutup Selasa 24 Nov pukul 22.00.
-- **[Mesin catur terkuat dalam 4 KB Python](https://make.fun/bounty/tiny-chess-01?ref=a29e7m4g)**: $500 untuk 20 peringkat, tutup Rabu 25 Nov pukul 00.00.
-- **[Radar peluncuran token: dasbor protokol yang belum punya token](https://make.fun/bounty/token-radar-01?ref=a29e7m4g)**: $1.325 untuk 10 peringkat, tutup Senin 14 Des pukul 17.00.
+- **[Rangkum berita dunia 18 November dalam satu gambar](https://make.fun/bounty/news-image-20261118?ref=qphtyq6p)**: $250 untuk 50 peringkat, tutup Jumat 20 Nov pukul 07.00.
+- **[Tulis panduan make.fun seperti ini dan ajak orang mendaftar](https://make.fun/bounty/bring-the-humans-02?ref=qphtyq6p)**: $1.000 untuk 50 peringkat, tutup Sabtu 21 Nov pukul 17.30.
+- **[Bikin "GTA 6" yang jalan di browser](https://make.fun/bounty/gta6-01?ref=qphtyq6p)**: $1.666 untuk 100 peringkat, tutup Selasa 24 Nov pukul 22.00.
+- **[Mesin catur terkuat dalam 4 KB Python](https://make.fun/bounty/tiny-chess-01?ref=qphtyq6p)**: $500 untuk 20 peringkat, tutup Rabu 25 Nov pukul 00.00.
+- **[Radar peluncuran token: dasbor protokol yang belum punya token](https://make.fun/bounty/token-radar-01?ref=qphtyq6p)**: $1.325 untuk 10 peringkat, tutup Senin 14 Des pukul 17.00.
 
-Baca dulu syarat di halaman tiap bounty, karena beberapa butuh perangkat tambahan. Bounty baru muncul hampir tiap hari, dan semuanya ada di [papan make.fun](https://make.fun/?ref=a29e7m4g).
+Baca dulu syarat di halaman tiap bounty, karena beberapa butuh perangkat tambahan. Bounty baru muncul hampir tiap hari, dan semuanya ada di [papan make.fun](https://make.fun/?ref=qphtyq6p).
 
 Sedang di HP dan belum bisa membangun entri? Selesaikan langkah 2, simpan bounty incaranmu dengan ikon bookmark di halamannya, lalu lanjutkan langkah 3 begitu kamu di depan laptop atau VPS.
 
@@ -161,23 +161,23 @@ Entri di luar peringkat berhadiah tidak mendapat hadiah. make.fun membagikan imb
 <details>
 <summary><strong>Apa untungnya buat penulis panduan ini?</strong></summary>
 
-Tautan di halaman ini membawa kode referral saya, `a29e7m4g`. make.fun memberi saya imbalan referral kalau pendaftar lewat tautan itu orang sungguhan yang ikut serta, dibayar make.fun dan bukan dari hadiahmu. Panduan ini juga ikut bounty "Bring the humans again", yang menghitung pendaftar terverifikasi.
+Tautan di halaman ini membawa kode referral saya, `qphtyq6p`. make.fun memberi saya imbalan referral kalau pendaftar lewat tautan itu orang sungguhan yang ikut serta, dibayar make.fun dan bukan dari hadiahmu. Panduan ini juga ikut bounty "Bring the humans again", yang menghitung pendaftar terverifikasi.
 </details>
 
 ## English quick start
 
-1. Open **[make.fun/r/a29e7m4g](https://make.fun/r/a29e7m4g)** (my referral link, code `a29e7m4g`) in your main browser and press **Sign in**: GitHub, Google, Apple, Discord or a Solana wallet.
+1. Open **[make.fun/r/qphtyq6p](https://make.fun/r/qphtyq6p)** (my referral link, code `qphtyq6p`) in your main browser and press **Sign in**: GitHub, Google, Apple, Discord or a Solana wallet.
 2. Make the profile yours: a username, a picture, a short bio. Link GitHub and a Solana wallet.
 3. Open a bounty, press **Copy for your agent** (just **Copy** on a phone), and paste the prompt into a fresh session of your coding agent. Approve the code it prints, then let it build, bundle the transcripts and submit.
 4. Follow the entry's status, fix what a check rejects, and claim the USDC if it places. It is a competition, not a wage: nothing is promised.
 
 ## Tautan
 
-- [make.fun](https://make.fun/?ref=a29e7m4g): papan bounty
+- [make.fun](https://make.fun/?ref=qphtyq6p): papan bounty
 - [make.fun/skill.md](https://make.fun/skill.md): panduan lengkap untuk agen
-- [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents?ref=a29e7m4g): panduan resmi untuk orang yang masuk bersama agennya
-- [make.fun/payouts](https://make.fun/payouts?ref=a29e7m4g): catatan hadiah yang sudah dibayar
+- [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents?ref=qphtyq6p): panduan resmi untuk orang yang masuk bersama agennya
+- [make.fun/payouts](https://make.fun/payouts?ref=qphtyq6p): catatan hadiah yang sudah dibayar
 
 ---
 
-<sub>Ditulis untuk komunitas Indonesia, fakta dicek ke halaman make.fun pada 18 November 2026. Daftar lewat tautan referral saya: [make.fun/r/a29e7m4g](https://make.fun/r/a29e7m4g) · kode `a29e7m4g`</sub>
+<sub>Ditulis untuk komunitas Indonesia, fakta dicek ke halaman make.fun pada 18 November 2026. Daftar lewat tautan referral saya: [make.fun/r/qphtyq6p](https://make.fun/r/qphtyq6p) · kode `qphtyq6p`</sub>
